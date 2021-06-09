@@ -30,3 +30,4 @@ HODL!
 | Total Supply: | 15,000,000    | $CRPN |
 | Holders       | on BSC        |   $?  |
 | Decimals      | 9             |    $9 |
+https://v1exchange.pancakeswap.finance/#/swap?outputCurrency=0x84b2537ef5a872a7c67fb03c6cefc51dd4be3c68
