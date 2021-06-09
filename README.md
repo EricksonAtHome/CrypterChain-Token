@@ -23,3 +23,10 @@ Confirm the transaction and...
 ```
 HODL!
 =================
+
+
+| Name          | Info          | PI    |
+| ------------- |:-------------:| -----:|
+| Total Supply: | 15,000,000    | $CRPN |
+| Holders       | on BSC        |   $?  |
+| Decimals      | 9             |    $9 |
